@@ -1,3 +1,6 @@
 what is DP?
 -Overlapping Subproblems
 -Optimal Substructure
+When Dynamic Programming?
+-Counting all possible ways.
+-minimizing or maximizing
